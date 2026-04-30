@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis Venera !
 
 🎓 Étudiante M1 Data Science à l'Université de Strasbourg  
-🔍 En recherche d'alternance Data (Analytics, Engineering & Science) dès septembre 2026
-📍 Colmar et Strasbourg, France  
+🔍 En recherche d'alternance Data (Analytics, Engineering & Science) dès septembre 2026  
+📍 Colmar et Strasbourg, France
 
 ## 🛠️ Stack technique
 
